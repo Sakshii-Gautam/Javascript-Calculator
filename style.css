@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
+}
+
+.col-md-6 {
+  margin: 30vh !important;
+  background-image: linear-gradient(to right, #cabfa8 0%, #c3e0d0 100%);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+button {
+  width: 70%;
+  background-color: rgb(243, 239, 178);
+  font-weight: bolder;
+  color: rgb(2, 40, 75);
+}
+input {
+  width: 90%;
+}
+h2 {
+  font-weight: bold;
+  margin-top: 20px;
+  padding-top: 20px;
+}
